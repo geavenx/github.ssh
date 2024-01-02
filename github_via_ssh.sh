@@ -1,0 +1,1 @@
+/home/vcardoso/.scripts/shell/github_via_ssh.sh
